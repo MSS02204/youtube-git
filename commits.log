@@ -1,0 +1,104 @@
+commit d0142dbf8bd7d03424d8f342358bcd93cfde45ea
+Author: MSS02204 <u202224602@upc.edu.pe>
+Date:   Mon May 5 10:49:38 2025 -0500
+
+    Agregando 2 párrafos
+
+commit f6ecd785241be6533e984da16eaa72d90f96e46c
+Merge: 6f96b9f 48ba410
+Author: MSS02204 <u202224602@upc.edu.pe>
+Date:   Mon May 5 10:46:09 2025 -0500
+
+    Resolviendo conflicto en estaciones del año y fechas de inicio
+
+commit 6f96b9f1de12e787d538426901d2b19cd739caa0
+Author: MSS02204 <u202224602@upc.edu.pe>
+Date:   Mon May 5 10:16:22 2025 -0500
+
+    Agregando estaciones del año con fecha de inicio
+
+commit 48ba410c2d9e38cb23a8fbe977bb481bb25fa503
+Author: MSS02204 <u202224602@upc.edu.pe>
+Date:   Mon May 5 10:16:22 2025 -0500
+
+    Agregando las estaciones del año
+
+commit 203d663ca47f97dd27ad9a2014df8f58eaf049a0
+Merge: d3451fe 502d799
+Author: MSS02204 <u202224602@upc.edu.pe>
+Date:   Sun May 4 17:35:28 2025 -0500
+
+    Resolviendo conflicto merge main/html en el documento index.html
+
+commit 502d799711cb444191478686c7c61fd4d489d845
+Author: MSS02204 <u202224602@upc.edu.pe>
+Date:   Sun May 4 17:29:34 2025 -0500
+
+    Agregando index.js al index.html
+
+commit d3451fe68b5a05c74a8cbbcdae5486690719dc8e
+Author: MSS02204 <u202224602@upc.edu.pe>
+Date:   Sun May 4 17:26:39 2025 -0500
+
+    Agregando style.css al index.html
+
+commit fd7deca1ef71ae8afdc46d133f47fc19ee08f5f8
+Merge: c4a515b a205fac
+Author: MSS02204 <u202224602@upc.edu.pe>
+Date:   Sun May 4 17:10:49 2025 -0500
+
+    Merge branch 'js'
+
+commit a205fac7542352bfd63e681d25432336e100bfa8
+Author: MSS02204 <u202224602@upc.edu.pe>
+Date:   Sun May 4 16:51:17 2025 -0500
+
+    Creando index.js
+
+commit c4a515b4601c03ccde20a137624fc260479d7735
+Author: MSS02204 <u202224602@upc.edu.pe>
+Date:   Sun May 4 16:47:22 2025 -0500
+
+    Creando style.css
+
+commit 90c998b5a50de0525f3fe4ef8f498757add1ba75
+Author: MSS02204 <u202224602@upc.edu.pe>
+Date:   Sun May 4 16:25:54 2025 -0500
+
+    Creando index.html
+
+commit 84182955091bfbee8f700b6d6aa7956b9064d123
+Author: MSS02204 <u202224602@upc.edu.pe>
+Date:   Sun May 4 15:38:05 2025 -0500
+
+    Ignorando archivos .exe
+
+commit 7809840848c635f1d6c5f818aaee9309a8a919f3
+Author: Melisa Geraldine Sulca Silva <u202224602@upc.edu.pe>
+Date:   Sun May 4 01:32:52 2025 -0500
+
+    Creando  licencia del repositorio
+
+commit a2214359c5c2ec4b58a4374056077aca83c31e67
+Author: Melisa Geraldine Sulca Silva <u202224602@upc.edu.pe>
+Date:   Sun May 4 01:31:16 2025 -0500
+
+    Creando licencia del repositorio
+
+commit ad54c5f40646e8f4e8c43f85e94a84d1338aa32b
+Author: MSS02204 <u202224602@upc.edu.pe>
+Date:   Sun May 4 01:24:18 2025 -0500
+
+    Agregando más contenido al README
+
+commit f2798278e6e0cfaba5fa05ab581bf87a250e3744
+Author: MSS02204 <u202224602@upc.edu.pe>
+Date:   Sun May 4 00:45:59 2025 -0500
+
+    Agregando contenido inicial al README
+
+commit 76e639021e66b2aef5dbe895142db3206c405035
+Author: MSS02204 <u202224602@upc.edu.pe>
+Date:   Sun May 4 00:37:59 2025 -0500
+
+    Primer commit 😁

@@ -3,3 +3,5 @@
 Hola soy tu amigo y docente digital Jonathan Mircha, bienvenidos a mi curso.
 
 Agregando más contenido al README.md
+
+Este commit es para oficializar nuestra versión **1.0.0**.

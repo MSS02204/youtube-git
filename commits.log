@@ -1,3 +1,61 @@
+commit 1b2aa17f33068984017431e669da72924c9c8e85
+Merge: a3d2186 f36df03
+Author: Melisa Geraldine Sulca Silva <u202224602@upc.edu.pe>
+Date:   Fri May 9 15:05:22 2025 -0500
+
+    Merge pull request #1 from MSS0220/readme-melisa
+    
+    Readme melisa
+
+commit f36df03b5f564f7016907cfaecfd5ce36a949b2d
+Author: Melisa <melisageraldinesulcasilva@gmail.com>
+Date:   Fri May 9 14:49:06 2025 -0500
+
+    Haciendo mejoras al README del repositorio
+
+commit 36f5e23367aa8d089f6a519398c46ff2eccaa52a
+Author: Melisa <melisageraldinesulcasilva@gmail.com>
+Date:   Fri May 9 14:25:19 2025 -0500
+
+    Cambio de prueba de la segunda cuenta de git
+
+commit a3d2186b10ece81b14d1f6b31636f0d9cfd72139
+Author: MSS02204 <u202224602@upc.edu.pe>
+Date:   Fri May 9 00:26:34 2025 -0500
+
+    Actualizando
+
+commit 2f2d2728a158562352837f028b8fe509b8280ad8
+Merge: 3f5c730 443abe7
+Author: MSS02204 <u202224602@upc.edu.pe>
+Date:   Thu May 8 18:22:09 2025 -0500
+
+    Resolviendo conflictos en la escritura de la etiqueta html en el documento de css.
+
+commit 3f5c730a9bc3b43a77ebc6e01730f95a3366f084
+Author: MSS02204 <u202224602@upc.edu.pe>
+Date:   Thu May 8 18:11:15 2025 -0500
+
+    Agregando imagen de flujo Git y poniendo chulo el index.html
+
+commit 443abe751b3759658f0c911bb616a431c7ec6d4e
+Author: MSS02204 <u202224602@upc.edu.pe>
+Date:   Thu May 8 17:22:42 2025 -0500
+
+    Agregando imagen de flujo Git y poneindo chulo el index.html
+
+commit 8e66c41211f0afde491b4f1a6f7a425c28719d5b
+Author: MSS02204 <u202224602@upc.edu.pe>
+Date:   Wed May 7 20:18:31 2025 -0500
+
+    v1.0.0
+
+commit 7640515f93be2294bf2bbbdb2239129ffd0c71ce
+Author: MSS02204 <u202224602@upc.edu.pe>
+Date:   Wed May 7 14:03:36 2025 -0500
+
+    Respaldando logs del repositorio
+
 commit d0142dbf8bd7d03424d8f342358bcd93cfde45ea
 Author: MSS02204 <u202224602@upc.edu.pe>
 Date:   Mon May 5 10:49:38 2025 -0500
